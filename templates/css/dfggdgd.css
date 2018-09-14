@@ -1,0 +1,130 @@
+ .main-page .promo_head_wr {
+	min-height:auto;
+	background-color:#92c9ee;
+	background-image:url("../images/essay-basics-order-writing-service-mp.jpg");
+	background-repeat:no-repeat;
+	background-position:center top;
+	background-size:cover
+}
+
+@media screen and (max-width:1041px) {
+	.main-page .promo_head_wr {
+	background-position:53% top
+}
+
+
+}
+
+@media screen and (max-width:930px) {
+	.main-page .promo_head_wr {
+	background-position:38% top
+}
+
+
+}
+
+@media screen and (max-width:785px) {
+	.main-page .promo_head_wr {
+	background-position:34% top
+}
+
+
+}
+
+@media screen and (max-width:650px) {
+	.main-page .promo_head_wr {
+	background-position:50% top
+}
+
+
+}
+
+.content_bl {
+	padding-top:30px
+}
+
+.main-page .promo_head {
+	content:'';
+	display:block;
+	width:100%;
+	min-height:auto;
+	position:relative
+}
+
+@media screen and (max-width:1350px) {
+	.main-page .promo_head {
+	background-position:78% top
+}
+
+
+}
+
+@media screen and (max-width:1041px) {
+	.main-page .promo_head {
+	background-position:48% top
+}
+
+
+}
+
+@media screen and (max-width:930px) {
+	.main-page .promo_head {
+	background-position:36% top
+}
+
+.promo_head_wr .title_bl {
+	margin-top:65px
+}
+
+
+}
+
+@media screen and (max-width:785px) {
+	.main-page .promo_head {
+	background-position:60% top
+}
+
+.promo_head_wr .title_bl {
+	margin-top:65px
+}
+
+
+}
+
+@media screen and (max-width:630px) {
+	.main-page .promo_head {
+	background-position:56% top
+}
+
+
+}
+
+@media screen and (max-width:450px) {
+	.main-page .promo_head {
+	background-position:50% top
+}
+
+
+}
+
+.main-page .promo_head div.cen_container {
+	overflow:visible
+}
+
+@media screen and (max-width:470px) {
+.main-page .promo_head_wr, .main-page .promo_head {
+	background-image:none;
+}
+.promo_head_wr .title_bl {
+	margin-top:100px
+}
+
+.main-page h1,.main-page .title1 {
+	font-size:44px;
+	line-height:44px;
+	font-weight:400
+}
+
+
+}
+

@@ -1,0 +1,13 @@
+Sitemap: http://https://rowlandz-property-agencies.000webhostapp.com/sitemap.xml
+
+User-agent: *
+Allow: /
+/sitemap.xml
+User-agent: NinjaBot
+Disallow: /order
+Allow: /
+
+User-agent: GoogleBot
+Disallow: /order
+Allow: /
+

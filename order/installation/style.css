@@ -1,0 +1,172 @@
+/*
+	Theme Name: OrderNow - Responsive Order Form
+	Description: This css file is for template layout alignments
+	Version: 1.0
+	Author: Responsive Expert
+	Author URI: http://www.responsiveexpert.com
+	Tags:
+	
+	---------------------------
+	INSTALLER STYLES
+	---------------------------
+*/
+
+body {
+	padding:0 0 0 0;
+	margin:0 0 0 0;
+	font-family:'Open Sans', sans-serif;
+    font-weight:400;
+    height: 100%;
+    width: 100%;
+	line-height:24px;
+	font-size:14px;
+	color:#666666;
+	background-color:#0f9ccc;
+}
+h1 {
+	padding:0 0 0 0;
+	margin:0 0 0 0;
+	font-family: "Arvo", serif !important;
+	font-size:24px;
+	font-weight:700;
+	color:#0f9ccc;
+}
+h3 {
+	padding:0 0 0 0;
+	margin:0 0 0 0;
+	font-family: "Arvo", serif !important;
+	font-size:20px;
+	font-weight:700;
+	color:#333;
+}
+
+.logo-main {
+	padding:0 0 0 0;
+	margin:50px 0 20px 0;
+	width:100%;
+	text-align:center;
+}
+.licence-agree {
+	padding:20px 30px;
+	margin:0 auto;
+	width:400px;
+	background:#ffffff;
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+	-ms-border-radius:5px;
+	border-radius:5px;
+	-webkit-box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.43);
+	-moz-box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.43);
+	-ms-box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.43);
+	box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.43);
+}
+.licence-agree h1 {
+	padding-bottom:15px;
+	margin-bottom:15px;
+	border-bottom:1px dashed #cccccc;
+}
+input[type=text], input[type=password] {
+	padding:5px 5%;
+	margin:0 0 0 0;
+	color:#666666;
+	font-family:'Open Sans', sans-serif;
+    font-weight:400;
+	font-size:16px;
+	border:1px solid #cccccc;
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+	-ms-border-radius:5px;
+	border-radius:5px;
+	background-color:#ffffff;
+	width:90%;
+}
+input[type=submit] {
+	padding:5px 20px;
+	margin:0 0 0 0;
+	font-family: "Arvo", serif !important;
+	color:#ffffff;
+	font-size:18px;
+	font-weight:400;
+	border:0;
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+	-ms-border-radius:5px;
+	border-radius:5px;
+	background-color:#0f9ccc;
+	cursor:pointer;
+}
+.error-msg {
+	padding:0 0 30px 0;
+	color:#FF0000;
+	text-align:center;
+	width:100%;
+}
+.error-msg span {
+	padding:5px 30px;
+	color:#FF0000;
+	text-align:center;
+	width:400px;
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+	-ms-border-radius:5px;
+	border-radius:5px;
+	background:rgba(251,251,251,0.7);
+	display:inline-block;
+}
+.version-details {
+	padding:20px 30px;
+	margin:0 auto;
+	width:450px;
+	background:#ffffff;
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+	-ms-border-radius:5px;
+	border-radius:5px;
+	-webkit-box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.43);
+	-moz-box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.43);
+	-ms-box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.43);
+	box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.43);
+}
+.version-details table {
+	border-left:1px dashed #cccccc;
+	border-top:1px dashed #cccccc;
+	margin-bottom:10px;
+}
+.version-details td {
+	padding:5px 0;
+	padding-left:10px;
+	border-bottom:1px dashed #cccccc;
+	border-right:1px dashed #cccccc;
+}
+.version-details h1 {
+	padding-bottom:15px;
+	margin-bottom:15px;
+	border-bottom:1px dashed #cccccc;
+}
+.db-details {
+	padding:20px 30px;
+	margin:0 auto;
+	width:450px;
+	background:#ffffff;
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+	-ms-border-radius:5px;
+	border-radius:5px;
+	-webkit-box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.43);
+	-moz-box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.43);
+	-ms-box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.43);
+	box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.43);
+}
+.db-details h1 {
+	padding-bottom:15px;
+	margin-bottom:15px;
+	border-bottom:1px dashed #cccccc;
+}
+.copy-right {
+	padding:10px 0 50px 0;
+	margin:0 0 0 0;
+	color:rgba(251,251,251,0.6);
+	font-size:12px;
+	width:100%;
+	text-align:center;
+}

@@ -1,0 +1,18 @@
+.home-text, .ordering-steps  {
+    width: 50%;
+    padding: 30px;
+    color: #51636f;
+    float: left;
+    font-family: 'Dosis',-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",sans-serif;
+    line-height: 2rem;
+    font-weight: 100;
+}
+#home-text {
+    background: #f3ca58;
+    background-image: -webkit-linear-gradient(10deg, #f6d77e 50%, #f3ca58 50%);
+
+}
+.home-text p {
+    font-size: 20px;
+    margin-top: 3rem;
+}
